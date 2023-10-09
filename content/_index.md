@@ -93,13 +93,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2018-09'
+          date_start: '2018-09-01'
           description: ''
           organization: Fudan University
           title: Industrial Economics
           url: ''
         - date_end: ''
-          date_start: '2018-09'
+          date_start: '2018-09-01'
           description: ''
           organization: Fudan University
           title: Development Economics
