@@ -9,7 +9,7 @@ sections:
     content:
       title: Xueyue Liu (刘学悦)
       image:
-        filename: back.jpeg
+        filename: back.png
       cta:
         label: '**CV**'
         url: https://econ.fudan.edu.cn/info/1028/17978.htm
