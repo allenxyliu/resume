@@ -6,7 +6,7 @@ authors:
 - admin
 author_notes:
 date: "2018-03-17T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.econlet.2018.02.023"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-03-17T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2018-03-17T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Economics Letters"
+publication: "Economics Letters, 2018, 167: 29-35"
 publication_short: ""
 
 abstract: We explore how labor union affects the wealth-income ratio in an innovation-driven growth model and find that it depends on the union’s objective. If the union is employment-oriented (wage-oriented), then a decrease in its bargaining power would have a positive (an ambiguous) effect on the wealth-income ratio. Calibrating the model to data, we find that a decrease in union bargaining power causes a sizable increase in the wealth-income ratio, which explains at least one-third of the increase in the US wealth-income ratio.
@@ -62,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

@@ -19,7 +19,7 @@ publishDate: "2020-08-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Economic Inquiry"
+publication: "Economic Inquiry, 2021, 59(1): 441-458"
 publication_short: ""
 
 abstract: "This study explores the heterogeneous effects of minimum wage on innovation of different types of firms. We develop an open-economy R&D-based growth model and obtain the following result: raising the minimum wage reduces innovation of firms that use domestic inputs but increases innovation of firms that import foreign inputs. We test this result using city-level data on minimum wages and firm-level patent data in China. In accordance with our theory, we find that raising the minimum wage is associated with more innovation by importing firms and less by non-importing firms. This result survives a battery of robustness checks. (JEL E24, F43, O31)"
@@ -29,7 +29,7 @@ summary: ''
 
 tags:
 - Source Themes
-featured: false
+featured: true 
 
 links:
 - name: "wiley"
@@ -64,13 +64,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

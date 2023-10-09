@@ -17,7 +17,7 @@ publishDate: "2023-07-27T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Energy Economics"
+publication: "Energy Economics, 2023, 125: 106851"
 publication_short: ""
 
 abstract: Improving energy efficiency is frequently viewed as one of the most effective ways to tackle climate warming and environmental degradation. Yet recent studies recognized that producers might take advantage of energy efficiency gains such as substituting capital and labor with energy and expanding production scale, which diminishes the energy-saving effect of energy efficiency improvement. The so-called rebound effect has drawn extensive attention from both academia and policymakers. Nevertheless, the determinants of the magnitude of the energy rebound effect are rarely known. This paper aims to fill some literature gaps. We theoretically rationalize how environmental regulation shapes the energy rebound effect. Taking the environmental policy in China’s 11th Five-Year Plan as a quasi-experiment, we employ the difference-in-difference-in-differences method to estimate the moderating effect of environmental regulation on the relationship between energy efficiency and energy consumption. We document that the rebound effect negatively correlates with the emission reduction mandates. Thus, environmental regulation plays a positive role in limiting the energy rebound effect.
@@ -62,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

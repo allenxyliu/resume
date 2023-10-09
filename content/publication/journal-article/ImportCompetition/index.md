@@ -16,7 +16,7 @@ publishDate: "2023-09-04T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Economic Behavior & Organization"
+publication: "Journal of Economic Behavior & Organization, 2023, 214: 670-690"
 publication_short: ""
 
 abstract: This paper investigates the impact of import competition on energy efficiency among firms in China. Using a difference-in-differences approach that exploits industry- and firm-level tariff reductions following China's accession to the WTO, we examine the effects of reduced output tariffs on coal intensity, measured as coal use per output, of Chinese manufacturing firms. Our findings indicate that higher levels of import competition lead to significant reductions in coal intensity, without negatively affecting firm production levels. We also find evidence that these effects are primarily driven by multi-product firms adjusting their product mix to prioritize energy-saving options.
@@ -61,13 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

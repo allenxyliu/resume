@@ -17,7 +17,7 @@ sections:
         label: Contact me
         url: mailto:allenxyliu@gmail.com
       text: |-
-      
+
         **Assistant Professor**
     
         **School of Economics, Fudan University**
@@ -74,6 +74,7 @@ sections:
         {{% /callout %}}
     design:
       columns: '2'
+      view: citation
     
   - block: collection
     content:
@@ -83,6 +84,7 @@ sections:
           - publication/preprint
     design:
       columns: '2'
+      view: citation
 
   - block: accomplishments
     id: teaching
