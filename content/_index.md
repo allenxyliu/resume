@@ -73,7 +73,6 @@ sections:
         {{% /callout %}}
     design:
       columns: '2'
-      view: citation
     
   - block: collection
     content:
@@ -83,7 +82,6 @@ sections:
           - publication/preprint
     design:
       columns: '2'
-      view: citation
 
   - block: accomplishments
     id: teaching
