@@ -26,7 +26,8 @@ Research Interests: Innovation, Energy and Environmental Economics, Economics of
 
 # Interests to show in About widget
 interests:
-  - Innovation, Energy and Environmental Economics
+  - Innovation
+  - Energy and Environmental Economics
   - Economics of Gender
 
 # Education to show in About widget
