@@ -5,7 +5,7 @@ authors:
 - Sharon Xuejing Zuo
 author_notes:
 date: "2022-11-26T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jebo.2022.11.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-26T00:00:00Z"
