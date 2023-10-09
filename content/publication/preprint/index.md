@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Going Green in China: Firms’ Responses to Stricter Environmental Regulations"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
