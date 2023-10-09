@@ -18,9 +18,13 @@ sections:
         url: mailto:allenxyliu@gmail.com
       text: |-
         **Assistant Professor**
+    
         **School of Economics, Fudan University**
+    
         Research Interests: Innovation, Energy and Environmental Economics, Economics of Gender (I mainly use all kinds of firm- and individual-level data in China)
+    
         Office Address: Room 310, Building  #11, 220 Handan Road, Shanghai, China
+    
         Email: liuxueyue@fudan.edu.cn
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -97,20 +101,16 @@ sections:
           description: ''
           organization: Fudan University
           title: Industrial Economics
-          url: ''
         - date_end: ''
           date_start: '2018-09-01'
           description: ''
           organization: Fudan University
           title: Development Economics
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - date_end: ''
+          date_start: '2018-09-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: Fudan University
+          title: Softwares for Economic Analysis
     design:
       columns: '2'
   
