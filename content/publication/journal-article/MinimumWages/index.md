@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Minimum Wages, Import Status, and Firms’ Innovation: Theory and Evidence from China"
 authors:
+- Angus C. Chu
+- Haichao Fan
+- Yuichi Furukawa
+- Zonglai Kou
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+author_notes: ''
+date: "2020-08-05T00:00:00Z"
+doi: "https://doi.org/10.1111/ecin.12933"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +19,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Economic Inquiry"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "This study explores the heterogeneous effects of minimum wage on innovation of different types of firms. We develop an open-economy R&D-based growth model and obtain the following result: raising the minimum wage reduces innovation of firms that use domestic inputs but increases innovation of firms that import foreign inputs. We test this result using city-level data on minimum wages and firm-level patent data in China. In accordance with our theory, we find that raising the minimum wage is associated with more innovation by importing firms and less by non-importing firms. This result survives a battery of robustness checks. (JEL E24, F43, O31)"
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+links:
+- name: "wiley"
+  url: "https://onlinelibrary.wiley.com/doi/10.1111/ecin.12933"
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,7 +62,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
