@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: pub
     content:
-      title: Publications
+      title: Papers
       filters:
         folders:
           - publication/journal-article
@@ -72,16 +72,6 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
-    design:
-      columns: '2'
-      view: citation
-    
-  - block: collection
-    content:
-      title: Working Papers
-      filters:
-        folders:
-          - publication/preprint
     design:
       columns: '2'
       view: citation
