@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xueyue Liu 刘学悦
+title: Xueyue Liu
 
 # Full name (for SEO)
 first_name: Xueyue
