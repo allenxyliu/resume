@@ -102,18 +102,23 @@ sections:
         - date_end: ''
           date_start: '2018-09-01'
           description: ''
-          organization: Fudan University
+          organization: Undergraduate level
           title: Industrial Economics
         - date_end: ''
           date_start: '2018-09-01'
           description: ''
-          organization: Fudan University
+          organization: Undergraduate level
           title: Development Economics
         - date_end: ''
           date_start: '2018-09-01'
           description: ''
-          organization: Fudan University
+          organization: Undergraduate level
           title: Softwares for Economic Analysis
+        - date_end: ''
+          date_start: '2018-09-01'
+          description: ''
+          organization: Graduate level
+          title: Intermediate Microeconomics
     design:
       columns: '2'
   
