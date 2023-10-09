@@ -19,7 +19,7 @@ role: Assistant Professor of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Fudan University
-    url: https://www.stanford.edu/](https://econ.fudan.edu.cn/
+    url: https://econ.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 Research Interests: Innovation, Energy and Environmental Economics, Economics of Gender (I mainly use all kinds of firm- and individual-level data in China)
