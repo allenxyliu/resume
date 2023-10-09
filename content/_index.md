@@ -80,7 +80,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication/preprint
+          - publication
     design:
       columns: '2'
       view: citation
