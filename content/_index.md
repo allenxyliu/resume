@@ -64,6 +64,9 @@ sections:
     id: pub
     content:
       title: Publications
+      filters:
+        folders:
+          - publication/journal-article
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -77,7 +80,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication
+          - publication/preprint
     design:
       columns: '2'
       view: citation
